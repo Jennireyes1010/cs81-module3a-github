@@ -7,3 +7,6 @@ function isEven(number) {
 function doubleNumber(number) {
     return number * 2;
 }
+function squareNumber(number) {
+    return number * number;
+}
